@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "ESNext"
+    ]
+  },
+  "include": [
+    "src/**/*", "test.ts", "run.ts"
+  ],
+}
